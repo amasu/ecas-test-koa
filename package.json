@@ -1,0 +1,19 @@
+{
+  "name": "ecas-test-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-cas-client": "^0.4.1",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-session": "^5.10.1",
+    "log-timestamp": "^0.2.1"
+  }
+}
